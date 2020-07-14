@@ -6,7 +6,9 @@ const Header = () => {
     <header>
       <div className="d-flex flex-column flex-md-row align-items-center p-3 px-sm-4 mb-3 bg-white border-bottom shadow-sm fixed-top">
         <h5 className="my-0 mr-md-auto font-weight-normal">
-          <Link to="/">Company name </Link>
+          <Link to="/">
+            <h2>Flud System Works</h2>
+          </Link>
         </h5>
 
         <nav className="my-2 my-md-0 mr-md-3">
