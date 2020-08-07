@@ -7,7 +7,7 @@ const HomeAbout = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-3">
-            <h2>About Us</h2>
+            <h2 className="display-3">About Us</h2>
             <Link className="btn btn-primary">Learn More</Link>
           </div>
           <div className="col-md-6">
